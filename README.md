@@ -1,3 +1,16 @@
+# Amazon sales Analytics Pipeline 
+
+## 👥 Team Information
+
+- Omar Abdelwahed     
+  ID: 231000679  
+
+- Bassel Ashraf  
+  ID: 231000646
+  
+- Hesham Ashraf  
+  ID: 231001625 
+
 ## Project Overview
 This project implements a complete data pipeline for amazon sales using Python and Docker. The pipeline processes raw data, performs analysis, generates visualizations, and applies clustering techniques.
 
@@ -74,7 +87,7 @@ visualize.py → creates plots → summary_plot.png
 cluster.py → performs clustering → clustered_data.csv
 ```
 
-📂 Output Files
+### 📂 Output Files
 
 The following outputs are generated and stored in:
 ```
@@ -87,3 +100,18 @@ insight1.txt
 insight2.txt
 insight3.txt
 ```
+
+### 📸 Screenshots / Sample Outputs
+ Running summary.sh
+
+<img width="740" height="439" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/a100cb2d-fc4e-495a-b0a2-f2e13639ec46" />       
+
+
+
+
+
+
+Results folder with generated files
+
+<img width="1000" height="360" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/99bec219-3e86-4289-90fc-5f050ef716e3" />
+
